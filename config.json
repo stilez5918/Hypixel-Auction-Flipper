@@ -24,7 +24,7 @@
     "minPriceForRawcraft": 5000000
   },
   "webhook": {
-    "discordWebhookUrl": "WEBHOOK_URL",
+    "discordWebhookUrl": "https://discord.com/api/webhooks/1263197936171483177/chz8bD1w9KT6B_vX7w2GqllKlEizFKS2b4nzqhPGAvChdwBcPVebyNR0o8hJ0gARPp6B",
     "webhookName": "Flipper",
     "webhookPFP": "https://cdn.discordapp.com/avatars/486155512568741900/164084b936b4461fe9505398f7383a0e.png?size=4096"
   },
